@@ -222,4 +222,4 @@ with h:
     liggande(toppen, x="passagerare", y="spenderat", titel="Topp 10 kunder – spenderat belopp")
  
  
- 
+
